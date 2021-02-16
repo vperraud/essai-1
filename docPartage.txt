@@ -1,4 +1,2 @@
-Bonjour 1
-bonjour colaboratif
-bonjour local
+Bonjour local
 bonjour cloud
